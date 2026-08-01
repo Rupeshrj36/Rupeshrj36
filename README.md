@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Rupesh 
+# 💫 Hi 👋, I'm Rupesh Jaiswal
 **Software Engineering Student || Full-Stack Developer || Problem Solver**
 
-Email Me 👉 ✉️ **jaiswal.rupesh2005@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **jaiswal.rupesh2005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupesh_j02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-jaiswal-01b810292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiswal.rupesh2005@gmail.com) 
