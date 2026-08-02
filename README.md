@@ -3,6 +3,17 @@
 
 Email Me 👉 ✉️ **jaiswal.rupesh2005@gmail.com** For Project or Anything Else. 😊😊
 
+## 💫 About Me
+
+💻 Final-Year IT Student @ PCCoE
+
+⚡ Full-Stack MERN Developer | C++ | DSA
+
+🚀 Building Scalable Software & Real-World Projects
+
+🌱 Learning, Building & Contributing Every Day
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupesh_j02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-jaiswal-01b810292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiswal.rupesh2005@gmail.com) 
 
