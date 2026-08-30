@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rupesh Jaiswal
 **Software Engineering Student || Full-Stack Developer || Problem Solver**
 
-Email Me 👉 ✉️ **jaiswal.rupesh2005@gmail.com** For Project or Anything Else. 😊😊
+📧 Reach me at **jaiswal.rupesh2005@gmail.com** For Project or opportunities. 😊😊
 
 ## 💫 About Me
 
