@@ -7,11 +7,14 @@
 
 💻 Final-Year IT Student @ PCCoE
 
-⚡ Full-Stack MERN Developer | C++ | DSA
+🚀 Upcoming Intern @ Opus Technologies
 
-🚀 Building Scalable Software & Real-World Projects
+⚡ Full-Stack MERN Developer | C++ | Java | DSA
+
+🛠️ Building Scalable Software & Real-World Projects
 
 🌱 Learning, Building & Contributing Every Day
+
 
 ---
 ## 🌐 Socials:
