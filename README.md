@@ -9,7 +9,7 @@
 
 🚀 Upcoming Intern @ [Opus Technologies](https://opustechglobal.com/)
 
-⚡ Full-Stack MERN Developer | C++ | DSA
+⚡ Full-Stack MERN Developer | C++ | Java | DSA
 
 🛠️ Building Scalable Software & Real-World Projects
 
