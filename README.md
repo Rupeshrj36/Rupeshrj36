@@ -5,9 +5,9 @@
 
 ## 💫 About Me
 
-💻 Final-Year IT Student @ <a href="https://www.pccoepune.com/" style="text-decoration: none;">PCCoE</a>
+💻 Final-Year IT Student @ <a href="https://www.pccoepune.com/">PCCoE</a>
 
-🚀 Upcoming Intern @ <a href="https://opustechglobal.com/" style="text-decoration: none;">Opus Technologies</a>
+🚀 Upcoming Intern @ <a href="https://opustechglobal.com/">Opus Technologies</a>
 
 ⚡ Full-Stack MERN Developer | C++ | Java | DSA
 
