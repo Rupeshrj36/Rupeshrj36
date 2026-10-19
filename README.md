@@ -7,8 +7,6 @@
 
 💻 Final-Year IT Student @ <a href="https://www.pccoepune.com/">PCCoE</a>
 
-🚀 Upcoming Intern @ <a href="https://opustechglobal.com/">Opus Technologies</a>
-
 ⚡ Full-Stack MERN Developer | C++ | Java | DSA
 
 🛠️ Building Scalable Software & Real-World Projects
